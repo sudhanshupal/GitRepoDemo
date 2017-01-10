@@ -15,7 +15,7 @@ namespace GitDemoForAthleteAdda.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Athleteadda Description page.";
 
             return View();
         }
